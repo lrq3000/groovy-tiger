@@ -101,5 +101,10 @@ sections:
       - label: Get Started
         url: /docs/getting-started/installation
         style: primary
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    type: section_docs
 template: advanced
 ---
